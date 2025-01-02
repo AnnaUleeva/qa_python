@@ -3,6 +3,12 @@
 ### test_add_new_book_add_two_books
 Тест добавления двух книг
 
+### test_add_new_book_add_wrong_book_name
+Тест добавления книг недопустимым названием (с использованием параметризации)
+
+### test_add_new_book_add_existing_book_name
+Тест добавления имеющейся книги в коллекции
+
 ### test_set_book_genre
 Тест установки жанра книгам (с использованием параметризации)
 
